@@ -1,0 +1,55 @@
+form {
+  background-color: white;
+}
+
+body {
+  background-color: silver;
+}
+
+h1 {
+  font-family: "Calibri";
+  font-variant: small-caps;
+  text-transform: lowercase;
+  border-top-color: #883600;
+  border-right-color: #883600;
+  border-bottom-color: #883600;
+  border-left-color: #883600;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+  border-top-width: 5px;
+  border-right-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  background-color: #fd9800;
+  color: white;
+}
+
+input {
+  background-color: #ff9900;
+  border-top-color: #883600;
+  border-right-color: #883600;
+  border-bottom-color: #883600;
+  border-left-color: #883600;
+  border-top-width: 5px;
+  border-right-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+  color: white;
+  font-family: "Calibri";
+  font-size: 20px;
+}
+
+img {
+  background-color: white;
+}
+
+p {
+  background-color: white;
+}
+

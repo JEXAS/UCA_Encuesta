@@ -1,0 +1,55 @@
+h1 {
+  font-family: "Calibri";
+  border-top-color: white;
+  border-right-color: white;
+  border-bottom-color: white;
+  border-left-color: white;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+  background-color: #ff6600;
+  text-transform: lowercase;
+  font-weight: bolder;
+  color: white;
+  font-size: 50px;
+  font-variant: small-caps;
+}
+
+body {
+  background-color: #cccccc;
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-position: right bottom;
+  background-size: auto auto;
+  background-clip: content-box;
+  background-origin: padding-box;
+}
+
+img {
+}
+
+h2 {
+  background-color: white;
+}
+
+input {
+  border-top-color: #000039;
+  border-right-color: #000039;
+  border-bottom-color: #000039;
+  border-left-color: #000039;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+  border-radius: 0px;
+  border-top-width: 5px;
+  border-right-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  font-family: "Calibri";
+  font-size: 20px;
+  background-color: #262672;
+  color: white;
+}
+

@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-family: "Calibri";
+  color: #ff9900;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+body {
+  background-color: rgba(54, 163, 173, 0.53);
+  background-image: url("logouca.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
